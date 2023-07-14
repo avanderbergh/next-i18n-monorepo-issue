@@ -1,0 +1,15 @@
+{
+  "name": "i18n",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "typesafe-i18n --no-watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "typesafe-i18n": "^5.24.4"
+  }
+}
